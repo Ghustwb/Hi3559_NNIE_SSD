@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "sample_svp_nnie_software.h": "c",
-        "opencv.hpp": "c",
-        "ratio": "c",
-        "core_c.h": "c"
-    }
-}
