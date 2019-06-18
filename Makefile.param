@@ -1,0 +1,6 @@
+
+OPNECV_LIB = $(PWD)/3rd/opencv
+
+CFLAGS += -I$(OPNECV_LIB)/include
+CFLAGS += -L$(OPNECV_LIB)/lib
+CFLAGS += -lopencv_imgcodecs -lopencv_highgui -lopencv_imgproc -lopencv_core
